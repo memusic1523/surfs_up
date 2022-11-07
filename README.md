@@ -12,4 +12,4 @@ We are analysing data to see if W.Avy our investor will invest in our Surf and i
   - Create a Flask file
   
 ## Summary
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December
+In conclusion, we were able to generate the temperature of June and December for the city of Oahu. They were both similar with very little difference between them. We can see that our business plan is solid for year-round. However, we should analysis quarterly to be more sure that we are able to sell year-round. It would give us more solid analysis. We should even further our analysis by include other cities' temperature to make sure that the location is correct. 
